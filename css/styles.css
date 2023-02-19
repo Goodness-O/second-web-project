@@ -1,0 +1,47 @@
+/* TAG SELECTORS */
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  background-color: powderblue;
+  border-radius: 100%;
+  height: 55px;
+}
+
+h1 {
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3 {
+  color: #66BFBF;
+  text-align: center;
+}
+
+h5 {
+  color: black;
+  text-align: left;
+  font-size: medium;
+}
+
+/* CLASS SELECTORS */
+.bacon:hover {
+  background-color: white;
+  height: 70px;
+}
+.profile:hover {
+  background-color: white;
+  height: 70px;
+}
+
+/* ID SELECTORS */
